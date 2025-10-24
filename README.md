@@ -1,4 +1,5 @@
 내용
-pptx to pdf
-RAGFlow
-PaddleOCR
+
+RAG 관련 오픈소스
+- RAGFlow
+- PaddleOCR
